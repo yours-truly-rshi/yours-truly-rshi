@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yours-truly-rshi&theme=darkhub&no-frame=true&rank=-C,-B)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yours-truly-rshi&theme=darkhub&no-frame=true&rank=-C)](https://github.com/ryo-ma/github-profile-trophy)
