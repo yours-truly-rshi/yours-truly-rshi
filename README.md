@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Maharshi Patel
-- 👀 I’m interested in backend engineering, managing cloud resources and refactoring legacy codebase. I’m looking to collaborate on different interesting projects
+- 👀 I’m interested in backend engineering, managing cloud resources and refactoring legacy codebase.
 - 📫 Please feel free to contact me @maharshi.patel.2023@gmail.com
 
 - LinkedIn: https://linkedin.com/in/yours-truly-rshi
