@@ -2,6 +2,9 @@
 - 👀 I’m interested in Web, Mobile App Development. I’m looking to collaborate on different interesting projects
 - 📫 Please feel free to contact me @maharshi.patel.2023@gmail.com
 
+- LinkedIn: https://linkedin.com/in/yours-truly-rshi
+- LeetCode: https://leetcode.com/yours-truly-rshi
+
 <!--
 **yours-truly-rshi/yours-truly-rshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
